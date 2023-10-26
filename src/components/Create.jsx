@@ -20,7 +20,12 @@ export default function Create() {
         "Content-Type": "application/json",
       },
       body: JSON.stringify(blog),
-    }).then(() => {
+    }).then((res) => {
+      if (res.ok) {
+        window.location.href = "/";
+      } else {
+        console.log(res.statusText);
+      }
       console.log("New blog added");
       setIsPending(false);
     });
