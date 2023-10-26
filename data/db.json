@@ -1,16 +1,34 @@
 {
-    "blogs": [
-        {
-            "title": "My first blog",
-            "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
-            "author": "mario",
-            "id": 1
-        },
-        {
-            "title": "Opening party",
-            "body": "The party is on, less good than badder one",
-            "author": "yoshi",
-            "id": 2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Opening party",
+      "body": "The party is on, less good than badder one",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "The impact of Artificial Intellligence",
+      "body": "Artificial intelligence (AI) has become an integral part of our lives, revolutionizing various industries and aspects of society. From self-driving cars to personalized recommendations on streaming platforms, AI technologies continue to shape our future. However, with great power comes great responsibility. This article explores the ethical implications, societal challenges, and potential benefits of AI in our rapidly evolving world",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "Exploring the Wonders of Space Travel",
+      "body": "Space travel has always captivated the human imagination. In recent decades, significant advancements in technology have made space exploration more feasible than ever before. This article takes you on a journey through the history of space travel, from the Apollo moon missions to the International Space Station. Discover the challenges faced by astronauts, the marvels of space engineering, and the profound impact of space exploration on our understanding of the universe",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "The role of renewable energy in combating climate change",
+      "body": "Climate change poses one of the most significant challenges of our time. To mitigate its effects, the world is shifting towards renewable energy sources such as solar, wind, and hydropower. This article delves into the importance of renewable energy in reducing carbon emissions, slowing down global warming, and ensuring a sustainable future. Learn about innovative technologies, government policies, and global initiatives that are driving the transition to a greener, cleaner planet",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "Unravelling the mysteries of ancient civilizations",
+      "body": "Ancient civilizations have always fascinated historians and archaeologists. The remnants of cultures like the Egyptians, Maya, and Indus Valley offer glimpses into humanity's rich past. This article explores the enigmas of ancient civilizations, from their sophisticated architectures and intricate artworks to their complex social structures and belief systems. Join us on a captivating journey through time as we unravel the mysteries of these remarkable cultures, shedding light on the origins of human societies.",
+      "author": "yoshi",
+      "id": 7
+    }
+  ]
 }
